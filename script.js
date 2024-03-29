@@ -1,4 +1,4 @@
-words = [ "Lowest prices for you!", "", "", "", "" ];
+
 
 const burnoutDesc = new AutoTyping({ id: 'burnout-desc', typeText: words }).init();
 
